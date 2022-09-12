@@ -1,0 +1,609 @@
+{
+	"Albedo":[
+                    {
+                        "constelacion":"Príncipe cretáceo",
+                        "c1":{
+                            "nombre":"Flor del Edén",
+                            "icon":"./assets/constelacion/albedo/c1.png",
+                            "desc":"Cuando explota una flor fugaz de Abiogénesis: Isotoma solar creara por Albedo, este recupera 1.2 pts. de Energía Elemental."
+                        },
+                        "c2":{
+                            "nombre":"Eón Fanerozoico",
+                            "icon":"./assets/constelacion/albedo/c2.png",
+                            "desc":"Al explotar, las flores fugaces de Abiogénesis: Isotoma solar otorgan a Albedo aritmética fatídica durante 30 s: Cada acumulación de aritmética fatídica aumenta el daño de Albedo en una cantidad igual al 30% de su DEF. Puede acumularse un máximo de 4 veces.Creación: Marea tectónica consume la aritmética fatídica, eliminando todas sus acumulaciones y aumentando el daño infligido por las explosiones de Creación: Marea tectónica y de las flores de la muerte"
+                        },
+                        "c3":{
+                            "nombre":"Gracia de Helios",
+                            "icon":"./assets/constelacion/albedo/c3.png",
+                            "desc":"Aumenta el nivel de habilidad de Abiogénesis: Isotoma solar +3. Puede ser aumentado hasta Niv. 15."
+                        },
+                        "c4":{
+                            "nombre":"Caída divina",
+                            "icon":"./assets/constelacion/albedo/c4.png",
+                            "desc":"Si los personajes en uso están en el área de la isotoma solar, aumenta en un 30% el daño de sus Ataques Descendientes."
+                        },
+                        "c5":{
+                            "nombre":"Marea del Hádico",
+                            "icon":"./assets/constelacion/albedo/c5.png",
+                            "desc":"Aumenta el nivel de habilidad de Creación: Marea tectónica +3. Puede ser aumentado hasta Niv. 15."
+                        },
+                        "c6":{
+                            "nombre":"Tierra purificadora",
+                            "icon":"./assets/constelacion/albedo/c6.png",
+                            "desc":"Aumenta en un 17% el daño de los personajes si estos están en el área de la isotoma solar y bajo la protección de un escudo creado mediante Cristalización."
+                        }
+                    },
+                    {
+                        "basico":{
+                            "icon":"./assets/talentos/albedo/a_basico.png",
+                            "nombre":"Técnica de espada Favonius - Albor",
+                            "normal":"Realiza hasta 5 ataques rápidos.",
+                            "cargado":"Consume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado.",
+                            "descendente":"Se lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto."
+                        },
+                        "elemental":{
+                            "icon":"./assets/talentos/albedo/a_elemental.png",
+                            "nombre":"Isotoma Solar",
+                            "efecto":"Crea una isotoma solar que inflige Daño Geo en el AdE.",
+                            "efecto_2":"Cuando los enemigos situados en el centro del área de la isotoma solar reciben daño, esta se convertirá en una flor fugaz, abriéndose e infligiendo Daño Geo en el AdE proporcional a la DEF de Albedo.",
+                            "efecto_3":"Solo puede crearse una flor fugaz cada 2 s.",
+                            "efecto_4":"Cuando un personaje se sitúa sobre la isotoma solar, el poder de Geo se concentrará para formar una plataforma cristalizada de cierta altura sobre la que se podrán mantener los personajes.",
+                            "efecto_5":"Solo puede existir a la vez una isotoma creada por Albedo. La isotoma solar se considera una creación Geo.",
+                            "pulsar":"Controla la ubicación sobre la que tiene lugar la habilidad."
+                        },
+                        "definitiva":{
+                            "icon":"./assets/talentos/albedo/a_definitiva.png",
+                            "nombre":"Marea tectonica",
+                            "efecto":"Albedo ordena a sus cristales Geo que exploten, lanzándolos al frente e infligiendo Daño Geo en el AdE",
+                            "efecto_2":"Si en el campo de batalla ya hay una isotoma solar creada por Albedo, creará 7 flores de la muerte dentro del área de la isotoma, provocando una violenta explosión que inflige Daño Geo en el AdE.",
+                            "efecto_3":"El daño causado por la explosión y las flores de la muerte no creará una flor fugaz."
+                        },
+                        "pasiva-1":{
+                            "icon":"./assets/talentos/albedo/pasiva_1.png",
+                            "nombre":"Fuerza Caliza",
+                            "desc":"Aumenta en un 25% el daño infligido por la flor fugaz de Abiogénesis: Isotoma solar contra los enemigos con menos del 50% de Vida."
+                        },
+                        "pasiva-2":{
+                            "icon":"./assets/talentos/albedo/pasiva_2.png",
+                            "nombre":"Sabiduría del homúnculo",
+                            "desc":"Creación: Marea tectónica aumenta en 125 pts. la Maestría Elemental de los personajes del equipo cercanos durante 10 s."
+                        },
+                        "pasiva-3":{
+                            "icon":"./assets/talentos/albedo/pasiva_3.png",
+                            "nombre":"Genio de la alquimia",
+                            "desc":"Al crear materiales de ascensión de arma, hay una probabilidad del 10% de recibir el doble."
+                        }
+                    }
+            ],
+	"Aloy": [
+                    {
+                        "constelacion":"Nora Fortis",
+                        "c1":{
+                            "nombre":"Desconocida",
+                            "icon":"./assets/constelacion/aloy/c1.png",
+                            "desc":"Aún no es el momento de que el cielo de esta persona se ilumine."
+                        },
+                        "c2":{
+                            "nombre":"Desconocida",
+                            "icon":"./assets/constelacion/aloy/c1.png",
+                            "desc":"Aún no es el momento de que el cielo de esta persona se ilumine."
+                        },
+                        "c3":{
+                            "nombre":"Desconocida",
+                            "icon":"./assets/constelacion/aloy/c1.png",
+                            "desc":"Aún no es el momento de que el cielo de esta persona se ilumine."
+                        },
+                        "c4":{
+                            "nombre":"Desconocida",
+                            "icon":"./assets/constelacion/aloy/c1.png",
+                            "desc":"Aún no es el momento de que el cielo de esta persona se ilumine."
+                        },
+                        "c5":{
+                            "nombre":"Desconocida",
+                            "icon":"./assets/constelacion/aloy/c1.png",
+                            "desc":"Aún no es el momento de que el cielo de esta persona se ilumine."
+                        },
+                        "c6":{
+                            "nombre":"Desconocida",
+                            "icon":"./assets/constelacion/aloy/c1.png",
+                            "desc":"Aún no es el momento de que el cielo de esta persona se ilumine."
+                        }
+                    },
+                    {
+                        "basico":{
+                            "icon":"./assets/talentos/aloy/a_basico.png",
+                            "nombre":"Fuego Rápido",
+                            "normal":"Realiza hasta 4 ataques consecutivos.",
+                            "cargado":"Puede realizar un disparo más preciso que inflige más daño. Al apuntar, crea escarcha que acumula frío en la punta de la flecha. Cuando el frío se acumula por completo, la flecha inflige Daño Cryo al impactar contra el enemigo."
+                        },
+                        "elemental":{
+                            "icon":"./assets/talentos/aloy/a_elemental.png",
+                            "nombre":"Campo Gélido",
+                            "efecto":"Lanza una bomba helada hacia la dirección en la que apunta y, al impactar, produce una explosión que inflige Daño Cryo. Al explotar, la bomba se divide en varias minibombas ultracongelantes que explotan al entrar en contacto con un enemigo o tras cierto tiempo, infligiendo Daño Cryo.",
+                            "efecto_2":"Al golpear a un enemigo, la bomba helada o las minibombas ultracongelantes reducen el ATQ de dicho enemigo y otorgan a Aloy una carga del efecto de inducción. Solo se puede obtener una carga de inducción cada 0.1 s.",
+                            "efecto_3":"Inducción: Aumenta el daño que inflige Aloy con su Ataque Normal en función del número de cargas de inducción. • Cuando tiene 4 cargas, Aloy las consume todas y obtiene 'hielo galopante', el cual aumenta aún más el daño de su Ataque Normal y transforma en Daño Cryo todo el daño infligido con dicho ataque.",
+                            "efecto_4":"En el estado de hielo galopante, Aloy no podrá beneficiarse de inducción. Los efectos de inducción se perderán 30 s después de que Aloy sea retirada de combate."                         
+                        },
+                        "definitiva":{
+                            "icon":"./assets/talentos/aloy/a_definitiva.png",
+                            "nombre":"Profecía del Amanecer",
+                            "efecto":"Aloy lanza una batería rebosante de Cryop hacia la direccíon en la que apunta y la detona con una flecha, infligiendo Daño Cryo en el AdE."
+                        },
+                        "pasiva-1":{
+                            "icon":"./assets/talentos/aloy/pasiva_1.png",
+                            "nombre":"Superposición bélica",
+                            "desc":"Cuando Aloy está bajo los efectos de inducción de Campo gélido, su ATQ aumenta en un 16% y el ATQ de los miembros cercanos del equipo aumenta en un 8% durante 10 s."
+                        },
+                        "pasiva-2":{
+                            "icon":"./assets/talentos/aloy/pasiva_2.png",
+                            "nombre":"Golpe Contundente",
+                            "desc":"Cuando Aloy está bajo los efectos de hielo galopante de Campo gélido, obtiene un 3.5% de Bono de Daño Cryo por segundo. Solo se puede alcanzar un máximo de 35% de bono de Daño Cryo de esta manera."
+                        },
+                        "pasiva-3":{
+                            "icon":"./assets/talentos/aloy/pasiva_3.png",
+                            "nombre":"Cazadora de lo salvaje",
+                            "desc":"Cuando Aloy está en el equipo, tus personajes no asustarán a los animales de los que se puede obtener carne de ave, carne cruda y carne congelada."
+                        }
+                    }
+            ],
+	"Amber":[
+                    {
+                        "constelacion":"Príncipe cretáceo",
+                        "c1":{
+                            "nombre":"Una flecha para gobernarlos a todos",
+                            "icon":"./assets/constelacion/amber/c1.png",
+                            "desc":"Lanza 2 flechas por cada Tiro preciso. La segunda flecha inflige 20% del daño de la primera flecha."
+                        },
+                        "c2":{
+                            "nombre":"Lanzamiento de Baron Bunny",
+                            "icon":"./assets/constelacion/amber/c2.png",
+                            "desc":"Un nuevo y mejorado Barón Bunny! Golpear su pie con un Tiro preciso cargado detona inmediatamente a Barón Bunny. Explotarlo manualmente infligirá un 200% de Daño adicional."
+                        },
+                        "c3":{
+                            "nombre":"Quemalo todo",
+                            "icon":"./assets/constelacion/amber/c3.png",
+                            "desc":"Aumenta el nivel de habilidad de Lluvia ardiente +3. Puede ser aumentado hasta Niv. 15."
+                        },
+                        "c4":{
+                            "nombre":"No es una muñeca cualquiera...",
+                            "icon":"./assets/constelacion/amber/c4.png",
+                            "desc":"Reduce el TdE de Marioneta explosiva en un 20%, y puede ser utilizada 1 vez má"
+                        },
+                        "c5":{
+                            "nombre":"¡Es Baron Bunny!",
+                            "icon":"./assets/constelacion/amber/c5.png",
+                            "desc":"Aumenta el nivel de habilidad de marioneta explosiva +3. Puede ser aumentado hasta Niv. 15."
+                        },
+                        "c6":{
+                            "nombre":"Fuego Salvaje",
+                            "icon":"./assets/constelacion/amber/c6.png",
+                            "desc":"Lluvia ardiente aumenta la Vel. Movimiento y el ATQ Básico de todos los miembros del equipo en un 15% durante 10 s."
+                        }
+                    },
+                    {
+                        "basico":{
+                            "icon":"./assets/talentos/amber/a_basico.png",
+                            "nombre":"Arquero divino",
+                            "normal":"Realiza hasta 5 disparos consecutivos con arco.",
+                            "cargado":"Dispara un Tiro preciso que inflige mayor daño. Al apuntar, se acumularán llamas en la punta de flecha. Una flecha en llamas totalmente cargada infligirá Daño Pyro.",
+                            "descendente":"Dispara una lluvia de flechas desde el aire y desciende rápidamente, causando daño a distancia al impactar en el suelo."
+                        },
+                        "elemental":{
+                            "icon":"./assets/talentos/amber/a_elemental.png",
+                            "nombre":"Marioneta Explosiva",
+                            "efecto":"El fiel Barón Bunny aparece en escena.",
+                            "efecto_2":"Se burla de los enemigos cercanos para atraer su atención.",
+                            "efecto_3":"La Vida Máx. de Barón Bunny aumenta en proporción a la Vida de Amber.",
+                            "efecto_4":"Cuando es destruido o su temporizador llega a cero, Barón Bunny explota, infligiendo Daño Pyro de Área.",
+                            "pulsar":"Ajusta la dirección de lanzamiento de Barón Bunny. Cuanto más tiempo se mantenga apretado el botón, más lejos se lanzará."
+                        },
+                        "definitiva":{
+                            "icon":"./assets/talentos/amber/a_definitiva.png",
+                            "nombre":"Lluvia Ardiente",
+                            "efecto":"Dispara una lluvia de flechas, infligiendo Daño Pyro en el AdE continuo."
+                        },
+                        "pasiva-1":{
+                            "icon":"./assets/talentos/amber/pasiva_1.png",
+                            "nombre":"Puntería final",
+                            "desc":"Lluvia ardiente aumenta un 10% de Prob. CRIT y el AdE se expande un 30%"
+                        },
+                        "pasiva-2":{
+                            "icon":"./assets/talentos/amber/pasiva_2.png",
+                            "nombre":"Disparo preciso",
+                            "desc":"Al infligir daño en los puntos débiles del enemigo usando Tiro preciso, el ATQ Básico aumenta un 15% durante 10 s."
+                        },
+                        "pasiva-3":{
+                            "icon":"./assets/talentos/amber/pasiva_3.png",
+                            "nombre":"Campeona de Vuelo",
+                            "desc":"Disminuye el consumo de Aguante al planear en un 20%"
+                        }
+                    }
+            ],
+	"Beidou":[
+                    {
+                        "constelacion":"Príncipe cretáceo",
+                        "c1":{
+                            "nombre":"Una flecha para gobernarlos a todos",
+                            "icon":"./assets/constelacion/beidou/c1.png",
+                            "desc":"Lanza 2 flechas por cada Tiro preciso. La segunda flecha inflige 20% del daño de la primera flecha."
+                        },
+                        "c2":{
+                            "nombre":"Lanzamiento de Baron Bunny",
+                            "icon":"./assets/constelacion/beidou/c2.png",
+                            "desc":"Un nuevo y mejorado Barón Bunny! Golpear su pie con un Tiro preciso cargado detona inmediatamente a Barón Bunny. Explotarlo manualmente infligirá un 200% de Daño adicional."
+                        },
+                        "c3":{
+                            "nombre":"Quemalo todo",
+                            "icon":"./assets/constelacion/beidou/c3.png",
+                            "desc":"Aumenta el nivel de habilidad de Lluvia ardiente +3. Puede ser aumentado hasta Niv. 15."
+                        },
+                        "c4":{
+                            "nombre":"No es una muñeca cualquiera...",
+                            "icon":"./assets/constelacion/beidou/c4.png",
+                            "desc":"Reduce el TdE de Marioneta explosiva en un 20%, y puede ser utilizada 1 vez má"
+                        },
+                        "c5":{
+                            "nombre":"¡Es Baron Bunny!",
+                            "icon":"./assets/constelacion/beidou/c5.png",
+                            "desc":"Aumenta el nivel de habilidad de marioneta explosiva +3. Puede ser aumentado hasta Niv. 15."
+                        },
+                        "c6":{
+                            "nombre":"Fuego Salvaje",
+                            "icon":"./assets/constelacion/beidou/c6.png",
+                            "desc":"Lluvia ardiente aumenta la Vel. Movimiento y el ATQ Básico de todos los miembros del equipo en un 15% durante 10 s."
+                        }
+                    },
+                    {
+                        "basico":{
+                            "icon":"./assets/talentos/beidou/a_basico.png",
+                            "nombre":"Conquista del oceano",
+                            "normal":"Realiza hasta 5 tajos rápidos.",
+                            "cargado":"Sigue consumiendo Aguante para realizar golpes de espada continuos. Cuando termina el Ataque Cargado, hará un movimiento final de dos cortes con fuerza añadida.",
+                            "descendente":"Se lanza desde el aire para golpear el suelo, dañando a los enemigos a lo largo del camino e infligiendo Daño de Área en el momento del impacto."
+                        },
+                        "elemental":{
+                            "icon":"./assets/talentos/beidou/a_elemental.png",
+                            "nombre":"Invocadora de mareas",
+                            "pulsar":"Ajusta la dirección de lanzamiento de Barón Bunny. Cuanto más tiempo se mantenga apretado el botón, más lejos se lanzará.",
+							"pulsar_efec_2":"Levanta su arma como un escudo, y la absorción máxima de daño se reduce proporcionalmente con la Vida Máx. de Beidou.",
+							"pulsar_efec_3":"Cuando la habilidad haya sido liberada o termine su duración, contraatacará con la energía almacenada dentro de la gran espada, infligiendo Daño Electro.",
+							"pulsar_efec_4":"Ataca usando la energía almacenada dentro de la gran espada tras su lanzamiento o una vez que expira la duración de esta habilidad, infligiendo Daño Electro.",
+							"pulsar_efec_5":"El Daño infligido aumenta con el número de veces que Beidou es atacada mientras dure la habilidad. La mayor bonificación de Daño se obtendrá una vez que este efecto se active dos veces.",
+							"pulsar_efec_6":"Tiene 250% de Daño Electro.",
+							"pulsar_efec_7":"Aplica el Elemento Electro a Beidou tras su activación."
+							
+                        },
+                        "definitiva":{
+                            "icon":"./assets/talentos/beidou/a_definitiva.png",
+                            "nombre":"Quebrantatormentas",
+                            "efecto":"Recordando su batalla contra la gran bestia Haishan, Beidou recurre a esa monstruosa fuerza y al rayo para crear un Escudo del trueno a su alrededor que inflige Daño Electro a los enemigos cercanos.",
+							"efecto_2":"Al golpear con Ataques Normales y Ataques Cargados, crean una descarga de rayo que puede saltar entre enemigos, infligiendo Daño Electro.",
+							"efecto_3":"Aumenta la RES a interrupción del personaje y reduce el Daño recibido. Dispara un máximo de 1 descarga de rayo por segundo."
+                        },
+                        "pasiva-1":{
+                            "icon":"./assets/talentos/beidou/pasiva_1.png",
+                            "nombre":"Castigo Divino",
+                            "desc":"Contraatacar con Invocadora de mareas en el momento preciso de ser golpeado le otorga el Máx. Bono de Daño."
+                        },
+                        "pasiva-2":{
+                            "icon":"./assets/talentos/beidou/pasiva_2.png",
+                            "nombre":"Tormenta electrica",
+                            "desc":"Al lanzar el máximo Bono de Daño con Invocadora de mareas, en los 10s posteriores obtendrás los siguientes efectos",
+							"efecto":"Aumenta el Daño por Ataque Normal y Ataque Cargado en 15%.",
+							"efecto_2":"Vel. de Ataque Normal y Ataque Cargado +15%.",
+							"efecto_3":"Reduce drásticamente el tiempo de preparación para Ataques Cargados."
+                        },
+                        "pasiva-3":{
+                            "icon":"./assets/talentos/beidou/pasiva_3.png",
+                            "nombre":"Conquistadora de Mareas",
+                            "desc":"Disminuye el consumo de Aguante al nadar en un 20%."
+                        }
+                    }
+            ],
+	"Bennett":[
+                    {
+                        "constelacion":"Rota Calamitas = Rueda del Desastre",
+                        "c1":{
+                            "nombre":"Visión de aventura",
+                            "icon":"./assets/constelacion/bennett/c1.png",
+                            "desc":"El aumento de ATQ de Aventura maravillosa ya no se ve restringido por la cantidad de Vida, y aumenta en un 20% adicional en proporción al ATQ Básico de Bennett."
+                        },
+                        "c2":{
+                            "nombre":"Huida desesperada",
+                            "icon":"./assets/constelacion/bennett/c2.png",
+                            "desc":"Aumenta la Recarga de Energía de Bennett en un 30% cuando su Vida es inferior al 70%."
+                        },
+                        "c3":{
+                            "nombre":"Pasión ardiente",
+                            "icon":"./assets/constelacion/bennett/c3.png",
+                            "desc":"Aumenta el nivel de habilidad de Sobrecarga de pasión +3. Puede ser aumentado hasta Niv. 15."
+                        },
+                        "c4":{
+                            "nombre":"Calidez inagotable",
+                            "icon":"./assets/constelacion/bennett/c4.png",
+                            "desc":"Usar un Ataque Normal al ejecutar el segundo ataque de Sobrecarga de pasión: Carga 1 permite realizar un ataque adicional. Este ataque adicional es equivalente al 135% del daño del segundo ataque."
+                        },
+                        "c5":{
+                            "nombre":"Explorador verdadero",
+                            "icon":"./assets/constelacion/bennett/c5.png",
+                            "desc":"Aumenta el nivel de habilidad de Aventura maravillosa +3. Puede ser aumentado hasta Niv. 15."
+                        },
+                        "c6":{
+                            "nombre":"Fuego y Coraje",
+                            "icon":"./assets/constelacion/bennett/c6.png",
+                            "desc":"Si los personajes en uso utilizan espada ligera, mandoble o lanza y se encuentran en el AdE de Aventura maravillosa, dichos personajes obtendrán un 15% de Bono de Daño Pyro. Además, serán imbuidos del elemento Pyro."
+                        }
+                    },
+                    {
+                        "basico":{
+                            "icon":"./assets/talentos/bennett/a_basico.png",
+                            "nombre":"Espada de la Suerte",
+                            "normal":"Realiza hasta 5 ataques rápidos.",
+                            "cargado":"Consume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado.",
+                            "descendente":"Se lanza desde el aire para golpear el suelo, dañando a los enemigos a lo largo del camino e infligiendo Daño de Área en el momento del impacto."
+                        },
+                        "elemental":{
+                            "icon":"./assets/talentos/bennett/a_elemental.png",
+                            "nombre":"Sobrecarga de Pasión",
+                            "efecto":"Bennett concentra el espíritu aventurero y la energía Pyro en su espada. Dependiendo del tiempo de carga, se producen diferentes efectos.",
+							"efecto_2":"Un clic: Realiza un rápido y ardiente movimiento con su espada, infligiendo Daño Pyro",
+                            "pulsar":"Dependiendo de la duración, lanza una habilidad distinta basada en en nivel de carga.",
+							"pulsar_efec_2":"Nivel 1: Golpea dos veces, infligiendo Daño Pyro y lanzando a los enemigos por los aires.",
+							"pulsar_efec_3":"Lanza 3 ataques consecutivos que infligen una cantidad significativa de Daño Pyro. El último ataque causa una explosión que lanza tanto a los enemigos como a Bennett por los aires. Sin embargo, Bennett no resulta herido por esta explosión."
+							
+                        },
+                        "definitiva":{
+                            "icon":"./assets/talentos/bennett/a_definitiva.png",
+                            "nombre":"Aventura Maravillosa",
+                            "efecto":"Bennett salta hacia el enemigo y ataca, infligiendo Daño Pyro y creando un círculo de apoyo moral.",
+							"efecto_2":"Si la Vida de un personaje dentro del círculo es igual o inferior al 70%, su vida se regenerará continuamente.",
+							"efecto_3":"Si la vida de un personaje dentro del círculo es mayor a 70%, obtendrán un Bono de ATQ igual a un porcentaje del ATQ Básico de Bennett.",
+							"efecto_4":"Los personajes dentro del círculo obtendrán el efecto Pyro."
+                        },
+                        "pasiva-1":{
+                            "icon":"./assets/talentos/bennett/pasiva_1.png",
+                            "nombre":"Resurgimiento de la Pasión",
+                            "desc":"Reduce el TdE de Sobrecarga de pasión en 20%."
+                        },
+                        "pasiva-2":{
+                            "icon":"./assets/talentos/bennett/pasiva_2.png",
+                            "nombre":"Fervor intrépido",
+                            "desc":"Dentro del área de Aventura maravillosa, Sobrecarga de pasión tiene los siguientes efectos:",
+							"efecto":"Su TdE se reduce en un 50%.",
+							"efecto_2":"Bennett no será lanzado por los aires con la Carga 2."
+                        },
+                        "pasiva-3":{
+                            "icon":"./assets/talentos/bennett/pasiva_3.png",
+                            "nombre":"Supuestamente Seguro",
+                            "desc":"Reduce en un 25% el tiempo necesario para completar una expedición en Mondstadt."
+                        }
+                    }
+                ],
+	"Barbara":[
+                    {
+                        "constelacion":"Crater = Copa",
+                        "c1":{
+                            "nombre":"Canción de Júbilo",
+                            "icon":"./assets/constelacion/barbara/c1.png",
+                            "desc":"Bárbara regenera 1 pt. de Energía Elemental cada 10 s."
+                        },
+                        "c2":{
+                            "nombre":"Explosión de Vitalidad",
+                            "icon":"./assets/constelacion/barbara/c2.png",
+                            "desc":"Reduce en un 15% el TdE de Que empiece el concierto ♪."
+                        },
+                        "c3":{
+                            "nombre":"Estrella del Mañana",
+                            "icon":"./assets/constelacion/barbara/c3.png",
+                            "desc":"Aumenta el nivel de habilidad de Milagro brillante ♪ +3. Puede ser aumentado hasta Niv. 15."
+                        },
+                        "c4":{
+                            "nombre":"El esfuerzo será mi magia",
+                            "icon":"./assets/constelacion/barbara/c4.png",
+                            "desc":"Bárbara regenera 1 pt. de Energía Elemental por cada enemigo que golpee con su Ataque Cargado.",
+							"efecto":"Solo se puede regenerar un máximo de 5 pts. de Energía por Ataque Cargado."
+                        },
+                        "c5":{
+                            "nombre":"Vínculo de inocencia",
+                            "icon":"./assets/constelacion/barbara/c5.png",
+                            "desc":"Aumenta el nivel de habilidad de Que empiece el concierto ♪ +3. Puede ser aumentado hasta Niv. 15."
+                        },
+                        "c6":{
+                            "nombre":"Dedicándote todo",
+                            "icon":"./assets/constelacion/barbara/c6.png",
+                            "desc":"Si un miembro de tu equipo ha sido derrotado cuando Bárbara está en tu equipo pero no en combate",
+							"efecto":"El personaje revive automáticamente.",
+							"efecto_2":"Su vida se restaura en un 100%.",
+							"efecto_3":"Este efecto solo puede ocurrir una vez cada 15 min."
+                        }
+                    },
+                    {
+                        "basico":{
+                            "icon":"./assets/talentos/barbara/a_basico.png",
+                            "nombre":"Murmullo de Agua",
+                            "normal":"Realiza hasta 4 ataques de salpicaduras de agua que infligen Daño Hydro.",
+                            "cargado":"Consume una cierta cantidad de Aguante para inflgir Daño Hydro de Área después de un corto lanzamiento.",
+                            "descendente":"El poder Hydro se concentra y desciende hacia el suelo, dañando a todos los enemigos en su camino. A su vez, inflige Daño de Área Hydro."
+                        },
+                        "elemental":{
+                            "icon":"./assets/talentos/barbara/a_elemental.png",
+                            "nombre":"Que empiece el concierto",
+                            "efecto":"Invoca gotas de agua que se asemejan a notas musicales que forman círculos melódicos. Estas infligen Daño Hydro a los enemigos alrededor y los afecta con el estado Mojado. Circulos melódicos:",
+							"efecto_2":"Los Ataques Normales de Bárbara curan a todos los miembros del grupo y a los personajes aliados cercanos una cierta cantidad de Vida, que aumenta con la Vida Máx. de Bárbara.",
+                            "efecto_3":"Regenera una cierta cantidad de Vida del personaje actual a intervalos regulares.",
+							"efecto_4":"Aplica el estado Mojado al personaje y a los enemigos que entren en contacto con él."
+                        },
+                        "definitiva":{
+                            "icon":"./assets/talentos/barbara/a_definitiva.png",
+                            "nombre":"Milagro Brillante",
+                            "efecto":"Cura una cantidad considerable de Vida a las fuerzas aliadas y a todos los personajes del equipo. La curación aumenta en proporción a la Vida Máx. de Bárbara."
+                        },
+                        "pasiva-1":{
+                            "icon":"./assets/talentos/barbara/pasiva_1.png",
+                            "nombre":"Momento de Gloria",
+                            "desc":"Reduce el Coste de Aguante del personaje en un 12% cuando está dentro de los círculos melódicos de Que empiece el concierto ♪."
+                        },
+                        "pasiva-2":{
+                            "icon":"./assets/talentos/barbara/pasiva_2.png",
+                            "nombre":"Bis",
+                            "desc":"Cuando el personaje recoja un Orbe o una Partícula Elemental, extienede la duración de los círculos metódicos de Que empiece el concierto ♪ en 1 s. Puede extenderse un máximo de 5 s de esta forma"
+                        },
+                        "pasiva-3":{
+                            "icon":"./assets/talentos/barbara/pasiva_3.png",
+                            "nombre":"Con todo mi corazón",
+                            "desc":"Cuando se logra un Perfecto en un plato con efectos reconstituyentes, hay un 12% de posibilidades de obtener el doble de cantidad del producto."
+                        }
+                    }
+              ],
+	"Chongyun":[
+                    {
+                        "constelacion":"Nubis Caesor = Muerte caminante",
+                        "c1":{
+                            "nombre":"Ventisca Desatada",
+                            "icon":"./assets/constelacion/chongyun/c1.png",
+                            "desc":"El último Ataque Normal de la secuencia de Chongyun lanza 3 cuchillas de hielo. ",
+							"efecto":"Cada cuchilla inflige el 50% del ATQ de Chongyun como Daño Cryo a todos los enemigos que se atraviesen."
+                        },
+                        "c2":{
+                            "nombre":"Revolución Atmosférica",
+                            "icon":"./assets/constelacion/chongyun/c2.png",
+                            "desc":"El TdE de las Habilidades Elementales y Definitivas lanzadas dentro del área de escarcha creado por Filo espiritual: Estratos de escarcha Chonghua se reduce en un 15%."
+                        },
+                        "c3":{
+                            "nombre":"Cirro-explosión",
+                            "icon":"./assets/constelacion/chongyun/c3.png",
+                            "desc":"Aumenta el nivel de habilidad de Filo espiritual: Estrella cortanubes +3. Puede ser aumentado hasta Niv. 15."
+                        },
+                        "c4":{
+                            "nombre":"Cielos congelados",
+                            "icon":"./assets/constelacion/chongyun/c4.png",
+                            "desc":"Chongyun regenera 1 punto de Energía cada vez que golpea a un enemigo afectado por Cryo. Este efecto solo puede ocurrir una vez cada 2 s."
+                        },
+                        "c5":{
+                            "nombre":"El verdadero camino",
+                            "icon":"./assets/constelacion/chongyun/c5.png",
+                            "desc":"Aumenta el nivel de habilidad de Filo espiritual: Estratos de escarcha Chonghua +3. Puede ser aumentado hasta Niv. 15."
+                        },
+                        "c6":{
+                            "nombre":"Ofrenda de las Cuatro Divinidades",
+                            "icon":"./assets/constelacion/chongyun/c6.png",
+                            "desc":"Filo espiritual: Estrella cortanubes inflige un 15% más de daño a los enemigos con un porcentaje de Vida restante más bajo que el de Chongyun.",
+							"efecto":"Esta habilidad también invocará un filo espiritual adicional.."
+                        }
+                    },
+                    {
+                        "basico":{
+                            "icon":"./assets/talentos/chongyun/a_basico.png",
+                            "nombre":"Desgracia de los demonios",
+                            "normal":"Realiza hasta 4 tajos rápidos.",
+                            "cargado":"Sigue consumiendo Aguante para realizar golpes de espada giratorios contra los enemigos cercanos. Al final del Ataque Cargado, realizará un golpe de espada más poderoso.",
+                            "descendente":" Se lanza desde el aire para golpear el suelo, dañando a los enemigos a lo largo del camino e infligiendo Daño de Área en el momento del impacto."
+                        },
+                        "elemental":{
+                            "icon":"./assets/talentos/chongyun/a_elemental.png",
+                            "nombre":"Filo espiritual: Estratos de escarcha Chonghua",
+                            "efecto":"Chongyun golpea el suelo con su gran espada, causando una explosión Cryo en un AdE circular frente a él que inflige daño Cryo.",
+							"efecto_2":"Después de un breve periodo de tiempo, el aire frío creado por la explosión Cryo se concentra en un campo de estratos de escarcha, dentro del cual se imbuye del Elemento Cryo a los personajes que usan espadas ligeras, mandobles y lanzas"
+                        },
+                        "definitiva":{
+                            "icon":"./assets/talentos/chongyun/a_definitiva.png",
+                            "nombre":"Filo espiritual: Estrella cortanubes",
+                            "efecto":"Al crear sellos de mano secretos, Chongyun invoca tres Hojas del espíritu gigantes que caen a la tierra, una tras otra, explotando al golpear el suelo.",
+							"efecto_2":"Cuando las Hojas del espíritu gigantes impactan, infligen Daño Cryo en el AdE."
+                        },
+                        "pasiva-1":{
+                            "icon":"./assets/talentos/chongyun/pasiva_1.png",
+                            "nombre":"Respiración inalterable",
+                            "desc":"Aumenta un 8% la Vel. de ATQ Normal de los personajes con espadas ligeras, espadas Mandoble o lanzas dentro del campo creado por Filo espiritual: Estratos de escarcha."
+                        },
+                        "pasiva-2":{
+                            "icon":"./assets/talentos/chongyun/pasiva_2.png",
+                            "nombre":"Hoja cazaescarcha",
+                            "desc":"Cuando el campo creado por Filo espiritual: Estratos de escarcha desaparece, invoca otro Filo espiritual para atacar a los enemigos cercanos, infligiendo el 100% del Daño de habilidad de Estratos de escarcha como Daño Cryo AdE. ",
+							"efecto":"La Res Cryo de los enemigos a los que ataque disminuirá en un 10% durante 8 s."
+                        },
+                        "pasiva-3":{
+                            "icon":"./assets/talentos/chongyun/pasiva_3.png",
+                            "nombre":"Viaje por las nubes",
+                            "desc":"Reduce en un 25% el tiempo necesario para completar una expedición en Liyue."
+                        }
+                    }
+               ],
+    "Diluc":[
+                    {
+                        "constelacion":"Nubis Caesor = Muerte caminante",
+                        "c1":{
+                            "nombre":"Ventisca Desatada",
+                            "icon":"./assets/constelacion/chongyun/c1.png",
+                            "desc":"El último Ataque Normal de la secuencia de Chongyun lanza 3 cuchillas de hielo. ",
+							"efecto":"Cada cuchilla inflige el 50% del ATQ de Chongyun como Daño Cryo a todos los enemigos que se atraviesen."
+                        },
+                        "c2":{
+                            "nombre":"Revolución Atmosférica",
+                            "icon":"./assets/constelacion/chongyun/c2.png",
+                            "desc":"El TdE de las Habilidades Elementales y Definitivas lanzadas dentro del área de escarcha creado por Filo espiritual: Estratos de escarcha Chonghua se reduce en un 15%."
+                        },
+                        "c3":{
+                            "nombre":"Cirro-explosión",
+                            "icon":"./assets/constelacion/chongyun/c3.png",
+                            "desc":"Aumenta el nivel de habilidad de Filo espiritual: Estrella cortanubes +3. Puede ser aumentado hasta Niv. 15."
+                        },
+                        "c4":{
+                            "nombre":"Cielos congelados",
+                            "icon":"./assets/constelacion/chongyun/c4.png",
+                            "desc":"Chongyun regenera 1 punto de Energía cada vez que golpea a un enemigo afectado por Cryo. Este efecto solo puede ocurrir una vez cada 2 s."
+                        },
+                        "c5":{
+                            "nombre":"El verdadero camino",
+                            "icon":"./assets/constelacion/chongyun/c5.png",
+                            "desc":"Aumenta el nivel de habilidad de Filo espiritual: Estratos de escarcha Chonghua +3. Puede ser aumentado hasta Niv. 15."
+                        },
+                        "c6":{
+                            "nombre":"Ofrenda de las Cuatro Divinidades",
+                            "icon":"./assets/constelacion/chongyun/c6.png",
+                            "desc":"Filo espiritual: Estrella cortanubes inflige un 15% más de daño a los enemigos con un porcentaje de Vida restante más bajo que el de Chongyun.",
+							"efecto":"Esta habilidad también invocará un filo espiritual adicional.."
+                        }
+                    },
+                    {
+                        "basico":{
+                            "icon":"./assets/talentos/chongyun/a_basico.png",
+                            "nombre":"Desgracia de los demonios",
+                            "normal":"Realiza hasta 4 tajos rápidos.",
+                            "cargado":"Sigue consumiendo Aguante para realizar golpes de espada giratorios contra los enemigos cercanos. Al final del Ataque Cargado, realizará un golpe de espada más poderoso.",
+                            "descendente":" Se lanza desde el aire para golpear el suelo, dañando a los enemigos a lo largo del camino e infligiendo Daño de Área en el momento del impacto."
+                        },
+                        "elemental":{
+                            "icon":"./assets/talentos/chongyun/a_elemental.png",
+                            "nombre":"Filo espiritual: Estratos de escarcha Chonghua",
+                            "efecto":"Chongyun golpea el suelo con su gran espada, causando una explosión Cryo en un AdE circular frente a él que inflige daño Cryo.",
+							"efecto_2":"Después de un breve periodo de tiempo, el aire frío creado por la explosión Cryo se concentra en un campo de estratos de escarcha, dentro del cual se imbuye del Elemento Cryo a los personajes que usan espadas ligeras, mandobles y lanzas"
+                        },
+                        "definitiva":{
+                            "icon":"./assets/talentos/chongyun/a_definitiva.png",
+                            "nombre":"Filo espiritual: Estrella cortanubes",
+                            "efecto":"Al crear sellos de mano secretos, Chongyun invoca tres Hojas del espíritu gigantes que caen a la tierra, una tras otra, explotando al golpear el suelo.",
+							"efecto_2":"Cuando las Hojas del espíritu gigantes impactan, infligen Daño Cryo en el AdE."
+                        },
+                        "pasiva-1":{
+                            "icon":"./assets/talentos/chongyun/pasiva_1.png",
+                            "nombre":"Respiración inalterable",
+                            "desc":"Aumenta un 8% la Vel. de ATQ Normal de los personajes con espadas ligeras, espadas Mandoble o lanzas dentro del campo creado por Filo espiritual: Estratos de escarcha."
+                        },
+                        "pasiva-2":{
+                            "icon":"./assets/talentos/chongyun/pasiva_2.png",
+                            "nombre":"Hoja cazaescarcha",
+                            "desc":"Cuando el campo creado por Filo espiritual: Estratos de escarcha desaparece, invoca otro Filo espiritual para atacar a los enemigos cercanos, infligiendo el 100% del Daño de habilidad de Estratos de escarcha como Daño Cryo AdE. ",
+							"efecto":"La Res Cryo de los enemigos a los que ataque disminuirá en un 10% durante 8 s."
+                        },
+                        "pasiva-3":{
+                            "icon":"./assets/talentos/chongyun/pasiva_3.png",
+                            "nombre":"Viaje por las nubes",
+                            "desc":"Reduce en un 25% el tiempo necesario para completar una expedición en Liyue."
+                        }
+                    }
+                ]
+     
+												
+				
+}

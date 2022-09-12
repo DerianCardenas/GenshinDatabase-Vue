@@ -1,0 +1,1274 @@
+{
+	"armas":[
+		{
+			"nombre":"Agitador del Relampago",
+			"rareza":5,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Agitador_del_Relampago.png",
+	        "img_asc":"./assets/arma/arcos/Arma_Agitador_del_Relampago_Ascendido.png",
+	        "desc":"Un arco que la Shogun le otorgó a alguien. Emite unos destellos eléctricos que nunca se apagarán.",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Alas Celestiales",
+			"rareza":5,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Alas_Celestiales.png",
+			"img_asc":"./assets/arma/arcos/Arma_Alas_Celestiales_Ascendido.png",
+	        "desc":"Un gran arco que simboliza el vínculo entre Stormterror y Barbatos. El sonido del disparo del arco es música para los oídos del Dios del Viento. Contiene el poder del cielo y del viento en su interior. ",
+	        "obtencion":"Gacha",
+	        "serie":"Mondstadt"
+		},
+		{
+			"nombre":"Arco Compuesto",
+			"rareza":4,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Arco_Compuesto.png",
+            "img_asc":"./assets/arma/arcos/Arma_Arco_Compuesto_Ascendido.png",
+	        "desc":"Un arco de aleación de metal con unos engranajes para estirar más la cuerda. Su extraña estructura hace que sea difícil de manejar, pero las flechas golpean al objetivo con una fuerza impresionante.",
+	        "obtencion":"Forja",
+	        "serie":"Infusión"
+		},
+		{
+			"nombre":"Arco de Amos",
+			"rareza":5,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Arco_de_Amos.png",
+            "img_asc":"./assets/arma/arcos/Arma_Arco_de_Amos_Ascendido.png",
+	        "desc":"Un arco extremadamente antiguo que conserva su poder aunque su dueño abandonó nuestro mundo hace mucho tiempo. Absorbe el poder de los seres vivos e inertes. Cuanto más lejos estés de aquello que tu corazón anhela, más poderoso será este arco.",
+	        "obtencion":"Forja",
+	        "serie":"Infusión"
+		},
+		{
+			"nombre":"Arco de Cuervo",
+			"rareza":3,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Arco_de_Cuervo.png",
+            "img_asc":"./assets/arma/arcos/Arma_Arco_de_Cuervo_Ascendido.png",
+	        "desc":"Los cuervos son conocidos por ser los mensajeros de la muerte. Las plumas que decoran este arco presagian la muerte inminente de cualquier objetivo.",
+	        "obtencion":"Gacha",
+	        "serie":"Infusión"
+		},
+		{
+			"nombre":"Arco de Ébano",
+			"rareza":3,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Arco_de_Ebano.png",
+            "img_asc":"./assets/arma/arcos/Arma_Arco_de_Ebano.png",
+	        "desc":"Un arco largo de madera de ébano con extremidades más rígidas que los arcos normales. También es un arma mucho más poderosa.",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Arco de Favonius",
+			"rareza":4,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Arco_de_Favonius.png",
+            "img_asc":"./assets/arma/arcos/Arma_Arco_de_Favonius_Ascendido.png",
+	        "desc":"Un arco recurvo estándar de los Caballeros de Favonius. Solo los mejores arqueros pueden sacar todo su potencial.",
+	        "obtencion":"Gacha",
+	        "serie":"Favonius"
+		},
+		{
+			"nombre":"Arco del Cazador",
+			"rareza":1,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Arco_del_Cazador.png",
+			"img_asc":"./assets/arma/arcos/Arma_Arco_del_Cazador_Ascendido.png",
+            "desc":"La música de un cazador consta de dos sonidos: el de la tensión de la cuerda del arco y el silbido de las flechas que vuelan.",
+	        "obtencion":"Cofres",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Arco del Cazador Estacional",
+			"rareza":2,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Arco_del_Cazador_Estacional.png",
+			"img_asc":"./assets/arma/arcos/Arma_Arco_del_Cazador_Estacional_Ascendido.png",
+            "desc":"Un arco viejo pero bien conservado. Podría ser considerado una extensión del brazo del arquero cuando se utiliza.",
+	        "obtencion":"Cofres",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Arco del Peñasco Oscuro",
+			"rareza":4,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Arco_del_Peñasco_Oscuro.png",
+			"img_asc":"./assets/arma/arcos/Arma_Arco_del_Peñasco_Oscuro_Ascendido.png",
+            "desc":"Un arco hecho de Piedra negra cuyos extremos son sumamente resistentes. Su uso requiere de un arquero diestro y de brazos fuertes",
+	        "obtencion":"Gangas de Paimon",
+	        "serie":"Peñasco Oscuro"
+		},
+		{
+			"nombre":"Arco del Sacrificio",
+			"rareza":4,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Arco_del_Sacrificio.png",
+			"img_asc":"./assets/arma/arcos/Arma_Arco_del_Sacrificio_Ascendido.png",
+            "desc":"Un arco de caza decorativo que ha sido petrificado por el tiempo. Las decoraciones en él son todavía fácilmente visibles. Concede al portador el poder de resistir los vientos del tiempo.",
+	        "obtencion":"Gacha",
+	        "serie":"Sacrificio"
+		},
+		{
+			"nombre":"Arco de la Cazadora Esmeralda",
+			"rareza":4,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Arco_de_la_Cazadora_Esmeralda.png",
+            "img_asc":"./assets/arma/arcos/Arma_Arco_de_la_Cazadora_Esmeralda_Ascendido.png",
+            "desc":" Un noble e inmaculado arco de caza de color verde oscuro. Perteneció a una persona que solía cazar en los bosques",
+	        "obtencion":"Pase de Batalla",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Arco Real",
+			"rareza":4,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Arco_Real.png",
+			"img_asc":"./assets/arma/arcos/Arma_Arco_Real_Ascendido.png",
+            "desc":"Un viejo arco largo de la aristocracia que en el pasado gobernó Mondstadt. Innumerables generaciones después, la cuerda del arco sigue tensa y puede disparar flechas rápidamente ",
+	        "obtencion":"Gangas de Paimon",
+	        "serie":"Real"
+		},
+		{
+			"nombre":"Arco Recurvo",
+			"rareza":3,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Arco_Recurvo.png",
+            "img_asc":"./assets/arma/arcos/Arma_Arco_Recurvo_Ascendido.png",
+            "desc":"Se dice que este arco podría derribar águilas en vuelo, pero mucho de eso depende de la habilidad del arquero.",
+	        "obtencion":"Cofres",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Cazador del Callejón",
+			"rareza":4,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Cazador_del_Callejon.png",
+			"img_asc":"./assets/arma/arcos/Arma_Cazador_del_Callejon.png",
+            "desc":"Un arco largo presuntuoso y fabricado con gran ingenio. Perteneció a un ladrón justiciero que nunca llegó a ser atrapado ",
+	        "obtencion":"Gacha",
+	        "serie":"Callejón"
+		},
+		{
+			"nombre":"Depredador",
+			"rareza":4,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Depredador.png",
+			"img_asc":"./assets/arma/arcos/Arma_Depredador.png",
+            "desc":"Un arco con un diseño único que no debe pertenecer a este mundo.",
+	        "obtencion":"Correo de Regalo, versión 2.1 - 2.3",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Elegía del Fin",
+			"rareza":5,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Elegia_del_Fin.png",
+			"img_asc":"./assets/arma/arcos/Arma_Elegia_del_Fin_Ascendido.png",
+            "desc":"Un arco tan bello como el instrumento de un bardo. Las flechas que dispara son como un suspiro capaz de atravesar el corazón de una persona.",
+	        "obtencion":"Gacha",
+	        "serie":"Gran Concierto Milenario"
+		},
+		{
+			"nombre":"Estrella Invernal",
+			"rareza":5,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Estrella_Invernal.png",
+			"img_asc":"./assets/arma/arcos/Arma_Estrella_Invernal.png",
+            "desc":"Un arco inmaculado y punzante como el gélido hielo del invierno.",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Herrumbre",
+			"rareza":4,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Herrumbre.png",
+			"img_asc":"./assets/arma/arcos/Arma_Herrumbre_Ascendido.png",
+            "desc":"Un arco de hierro completamente oxidado. La gente común ni siquiera tiene la fuerza necesaria para levantarlo, y menos aún para disparar sus flechas.",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Juramento del Arquero",
+			"rareza":3,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Juramento_del_Arquero.png",
+			"img_asc":"./assets/arma/arcos/Arma_Juramento_del_Arquero_Ascendido.png",
+            "desc":"Este sublime arco perteneció una vez a un maestro arquero. Emite un fuerte olor, por lo que no es apto para la caza.",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Luna de Mounn",
+			"rareza":4,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Luna_de_Mouun.png",
+			"img_asc":"./assets/arma/arcos/Arma_Luna_de_Mouun.png",
+            "desc":"Un elegante arco hecho con una caracolas de mar y corales. Una melancólica luz lunar fluye por él.",
+	        "obtencion":"Gacha",
+	        "serie":"Watatsumi"
+		},
+		{
+			"nombre":"Mascrademonios",
+			"rareza":4,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Masacrademonios.png",
+			"img_asc":"./assets/arma/arcos/Arma_Masacrademonios_Ascendido.png",
+            "desc":"El arco de guerra que perteneció a una miko del pasado. Exquisito y resistente, fue fabricado con una técnica inigualable.",
+	        "obtencion":"Forja",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Mensajero",
+			"rareza":3,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Mensajero.png",
+			"img_asc":"./assets/arma/arcos/Arma_Mensajero_Ascendido.png",
+            "tipo":"Arco",
+	        "obtencion":"Cofres",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Oda a las Flores del Viento",
+			"rareza":4,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Oda_a_las_Flores_de_Viento.png",
+			"img_asc":"./assets/arma/arcos/Arma_Oda_a_las_Flores_de_Viento_Ascendido.png",
+            "desc":"Un arco ornamentado con flores desconocidas que carga con los fervientes deseos de una persona también desconocida",
+	        "obtencion":"Evento Encuentro con las Flores del Viento",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Prototipo Luz de Luna",
+			"rareza":4,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Prototipo_Luz_de_Luna.png",
+			"img_asc":"./assets/arma/arcos/Arma_Prototipo_Luz_de_Luna_Ascendido.png",
+            "desc":"Un prototipo de arco largo descubierto en la Forja Peñasco Oscuro. La flecha disparada desde este arco brilla como un rayo de luz de luna.",
+	        "obtencion":"Forja, Recompensa de AR 10",
+	        "serie":"Prototipo"
+		},
+		{
+			"nombre":"Tirachinas",
+			"rareza":3,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Tirachinas.png",
+			"img_asc":"./assets/arma/arcos/Arma_Tirachinas_Ascendido.png",
+            "desc":"Después de muchas modificaciones y mejoras, su inventor acabó cambiando su aspecto por completo. Ahora, en realidad, es un arco.",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Último Acorde",
+			"rareza":4,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Ultimo_Acorde.png",
+			"img_asc":"./assets/arma/arcos/Arma_Ultimo_Acorde_Ascendido.png",
+            "desc":"Un arco que alguna vez acompañó un instrumento extraordinario. Ya no es capaz de hacer bailar a la gente.",
+	        "obtencion":"Gacha",
+	        "serie":"Orquesta del Errante"
+		},
+		{
+			"nombre":"Vals Nocturno",
+			"rareza":4,
+			"tipo":"Arco",
+			"img_src":"./assets/arma/arcos/Arma_Vals_Nocturno.png",
+			"img_asc":"./assets/arma/arcos/Arma_Vals_Nocturno_Ascendido.png",
+            "desc":"Un arco pintado del color de los pecados y las fantasías de la noche.",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Ágata del Peñasco Oscuro",
+			"rareza":4,
+			"tipo":"Catalizador",
+			"img_src":"./assets/arma/catalizadores/Arma_Agata_del_Peñasco_Oscuro.png",
+			"img_asc":"./assets/arma/catalizadores/Arma_Agata_del_Peñasco_Oscuro_Ascendido.png",
+			"desc":"Un misterioso catalizador hecho de Piedra negra. Tiene un brillo carmesí siniestro que parece latir en sincronía con los temblores de las profundidades de la tierra.",
+	        "obtencion":"Gangas de Paimon",
+	        "serie":"Peñasco Oscuro"
+		},
+		{
+			"nombre":"Anillo de Hakushin",
+			"rareza":4,
+			"tipo":"Catalizador",
+			"img_src":"./assets/arma/catalizadores/Arma_Anillo_de_Hakushin.png",
+			"img_asc":"./assets/arma/catalizadores/Arma_Anillo_de_Hakushin_Ascendido.png",
+			"desc":"Un catalizador que conserva los antiguos pensamientos de la Sacerdotiza Kitsune. Sin embargo, estos pensamientos eran tantos que no fue posible que todos cupieran en este objeto.",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Candado Terrenal",
+			"rareza":5,
+			"tipo":"Catalizador",
+			"img_src":"./assets/arma/catalizadores/Arma_Candado_Terrenal.png",
+			"img_asc":"./assets/arma/catalizadores/Arma_Candado_Terrenal_Ascendido.png",
+			"desc":"Una mancuerna de piedra que contiene recuerdos lejanos. Sus interminables transformaciones revelan el poder interior.",
+	        "obtencion":"Gacha",
+	        "serie":"Liyue"
+		},
+		{
+			"nombre":"Carta Naútica",
+			"rareza":4,
+			"tipo":"Catalizador",
+			"img_src":"./assets/arma/catalizadores/Arma_Carta_Nautica.png",
+			"img_asc":"./assets/arma/catalizadores/Arma_Carta_Nautica_Ascendido.png",
+			"desc":"Un mapa muy detallado de las aguas alrededor de Teyvat. Este es uno de esos maravillosos documentos que llegaron a través de las rutas comerciales de Liyue.",
+	        "obtencion":"Gacha",
+	        "serie":"Infusión"
+		},
+		{
+			"nombre":"Catalizador Ámbar",
+			"rareza":3,
+			"tipo":"Catalizador",
+			"img_src":"./assets/arma/catalizadores/Arma_Catalizador_Ambar.png",
+			"img_asc":"./assets/arma/catalizadores/Arma_Catalizador_Ambar_Ascendido.png",
+			"desc":"Un catalizador tallado del ámbar que gana un cálido halo debajo del sol.",
+	        "obtencion":"Cofres",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Cuentos de Cazadores de Dragones",
+			"rareza":4,
+			"tipo":"Catalizador",
+			"img_src":"./assets/arma/catalizadores/Arma_Cuentos_de_Cazadores_de_Dragones.png",
+			"img_asc":"./assets/arma/catalizadores/Arma_Cuentos_de_Cazadores_de_Dragones_Ascendido.png",
+			"desc":"Una historia ficticia de un grupo de cinco héroes en una expedición de caza de dragones. Está mal escrita, pero puede transmitir a la gente la importancia de no cometer errores.",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Cuentos de Dodoco",
+			"rareza":4,
+			"tipo":"Catalizador",
+			"img_src":"./assets/arma/catalizadores/Arma_Cuentos_de_Dodoco.png",
+			"img_asc":"./assets/arma/catalizadores/Arma_Cuentos_de_Dodoco_Ascendido.png",
+			"desc":"Un libro infantil con una bella portada. Todo su contenido son relatos cortos infantiles que harán reír a cualquier lector. Ni los adultos podrán evitar sentirse fascinados al leer sus inocentes historias de aventuras.",
+	        "obtencion":"Evento !Verano, islas, aventuras!, Versión 1.6",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Códice de Favonius",
+			"rareza":4,
+			"tipo":"Catalizador",
+			"img_src":"./assets/arma/catalizadores/Arma_Codice_de_Favonius.png",
+			"img_asc":"./assets/arma/catalizadores/Arma_Codice_de_Favonius_Ascendido.png",
+			"desc":"Un libro secreto que perteneció a los eruditos de los Caballeros de Favonius. En él, se describen los principios y el poder de la elementos y la materia.",
+	        "obtencion":"Gacha",
+	        "serie":"Favonius"
+		},
+		{
+			"nombre":"Frio Eterno",
+			"rareza":4,
+			"tipo":"Catalizador",
+			"img_src":"./assets/arma/catalizadores/Arma_Frio_Eterno.png",
+			"img_asc":"./assets/arma/catalizadores/Arma_Frio_Eterno_Ascendido.png",
+			"desc":"Un fruto cristalizado que posee una extraña voluntad helada. Una tenue sensación de agonía emana de él.",
+	        "obtencion":"Forja, Nivel 10 de Ofrenda del Árbol Frioeterno",
+	        "serie":"Espinadragón"
+		},
+		{
+			"nombre":"Grimorio Real",
+			"rareza":4,
+			"tipo":"Catalizador",
+			"img_src":"./assets/arma/catalizadores/Arma_Grimorio_Real.png",
+			"img_asc":"./assets/arma/catalizadores/Arma_Grimorio_Real_Ascendido.png",
+			"desc":"Un libro que una vez perteneció a un mago aristócrata de Mondstadt. En él, hay registrados relatos históricos y hechizos reales y muy largos",
+	        "obtencion":"Gangas de Paimon",
+	        "serie":"Real"
+		},
+		{
+			"nombre":"Grimorio de Bolsillo",
+			"rareza":2,
+			"tipo":"Catalizador",
+			"img_src":"./assets/arma/catalizadores/Arma_Grimorio_de_Bolsillo.png",
+			"img_asc":"./assets/arma/catalizadores/Arma_Grimorio_de_Bolsillo_Ascendido.png",
+			"desc":" Un cuaderno que recoge con todo detalle anotaciones muy útiles para los exámenes de magia.",
+	        "obtencion":"Cofres",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Guía Mágica",
+			"rareza":3,
+			"tipo":"Catalizador",
+			"img_src":"./assets/arma/catalizadores/Arma_Guia_Magica.png",
+			"img_asc":"./assets/arma/catalizadores/Arma_Guia_Magica.png",
+			"desc":"12ª edición de la «Guía Mágica». Una reimpresión con correcciones de la 11ª edición y contenido nuevo basado en el desarrollo de los últimos años.",
+	        "obtencion":"Gacha",
+	        "serie":"Favonius"
+		},
+		{
+			"nombre":"Historias de Otros Mundos",
+			"rareza":3,
+			"tipo":"Catalizador",
+			"img_src":"./assets/arma/catalizadores/Arma_Historias_de_Otros_Mundos.png",
+			"img_asc":"./assets/arma/catalizadores/Arma_Historias_de_Otros_Mundos_Ascendido.png",
+			"desc":"Una novela de fantasía barata y sin ningún valor. También es fantasía el hecho de que pueda servir como catalizador.",
+	        "obtencion":"Cofres",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Luna Inalterable",
+			"rareza":5,
+			"tipo":"Catalizador",
+			"img_src":"./assets/arma/catalizadores/Arma_Luna_Inalterable.png",
+			"img_asc":"./assets/arma/catalizadores/Arma_Luna_Inalterable_Ascendido.png",
+			"desc":"Un anillo de jade procedente de las profundidades del océano. Reluce con un brillo puro y distante como el de la luna.",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Memorias de Sacrificios",
+			"rareza":4,
+			"tipo":"Catalizador",
+			"img_src":"./assets/arma/catalizadores/Arma_Memorias_de_Sacrificios.png",
+			"img_asc":"./assets/arma/catalizadores/Arma_Memorias_de_Sacrificios_Ascendido.png",
+			"desc":"Un guión desgastado, con textos que ya no son identificables. Un objeto maldito erosionado por los vientos del tiempo. ",
+	        "obtencion":"Saccrificio",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Nefrita Gemela",
+			"rareza":2,
+			"tipo":"Catalizador",
+			"img_src":"./assets/arma/catalizadores/Arma_Nefrita_Gemela.png",
+			"img_asc":"./assets/arma/catalizadores/Arma_Nefrita_Gemela_Ascendido.png",
+			"desc":"Un colgante de Nefrita colocado entre dos piedras de jade.",
+	        "obtencion":"Cofres",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Ojo de la Perspicacia",
+			"rareza":4,
+			"tipo":"Catalizador",
+			"img_src":"./assets/arma/catalizadores/Arma_Ojo_de_la_Perspicacia.png",
+			"img_asc":"./assets/arma/catalizadores/Arma_Ojo_de_la_Perspicacia_Ascendido.png",
+			"desc":"Una oscura joya hecha de cristal. Cuenta la leyenda que posee la capacidad de ver a través de la pureza de las personas",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Oración Perdida a los Vientos Sagrados",
+			"rareza":5,
+			"tipo":"Catalizador",
+			"img_src":"./assets/arma/catalizadores/Arma_Oracion_Perdida_a_los_Vientos_Sagrados.png",
+            "img_asc":"./assets/arma/catalizadores/Arma_Oracion_Perdida_a_los_Vientos_Sagrados_Ascendido.png",
+			"desc":"Un libro educativo escrito por unos ancestros anónimos que adoraban al viento. Fue bendecido por el viento por su fidelidad e influencia acumulada a lo largo de milenios",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Orbe Esmeralda",
+			"rareza":3,
+			"tipo":"Catalizador",
+			"img_src":"./assets/arma/catalizadores/Arma_Orbe_Esmeralda.png",
+            "img_asc":"./assets/arma/catalizadores/Arma_Orbe_Esmeralda_Ascendido.png",
+			"desc":"Un catalizador tallado en jade extraído del Desfiladero Jueyun, al norte de Liyue. Es pequeño, ligero y duradero. Popularmente se conoce como Orbe de Jade",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Pergamino Celestial",
+			"rareza":5,
+			"tipo":"Catalizador",
+			"img_src":"./assets/arma/catalizadores/Arma_Pergamino_Celestial.png",
+            "img_asc":"./assets/arma/catalizadores/Arma_Pergamino_Celestial_Ascendido.png",
+			"desc":"Un atlas de nubes que simboliza a Stormterror y al Dios de los Vientos, su antiguo maestro. Detalla los vientos y las nubes de las regiones del norte y contiene los poderes del cielo y de los vientos.",
+	        "obtencion":"Gacha",
+	        "serie":"Mondstadt"
+		},
+		{
+			"nombre":"Perla Solar",
+			"rareza":4,
+			"tipo":"Catalizador",
+			"img_src":"./assets/arma/catalizadores/Arma_Perla_Solar.png",
+            "img_asc":"./assets/arma/catalizadores/Arma_Perla_Solar_Ascendido.png",
+			"desc":"Una perla opaca y dorada hecha de una sustancia desconocida que alberga la luz del sol y la luna. Late con una fuerza muy cálida. ",
+	        "obtencion":"Pase de Batalla",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Prototipo Ámbar",
+			"rareza":4,
+			"tipo":"Catalizador",
+			"img_src":"./assets/arma/catalizadores/Arma_Prototipo_Ambar.png",
+			"img_asc":"./assets/arma/catalizadores/Arma_Prototipo_Ambar_Ascendido.png",
+			"desc":"Un catalizador recubierto de oro guardado en secreto en la Forja Peñasco Oscuro. Parece brillar con la misma luz del cielo. ",
+	        "obtencion":"Gacha",
+	        "serie":"Prototipo"
+		},
+		{
+			"nombre":"Sinfonšia de los Merodeadores",
+			"rareza":4,
+			"tipo":"Catalizador",
+			"img_src":"./assets/arma/catalizadores/Arma_Sinfonia_de_los_Merodeadores.png",
+			"img_asc":"./assets/arma/catalizadores/Arma_Sinfonia_de_los_Merodeadores_Ascendido.png",
+			"desc":"Un pesado cuaderno lleno de partituras. A pesar de que está consumido por las polillas, la escritura sigue mostrando su poder. ",
+	        "obtencion":"Gacha",
+	        "serie":"Orquesta del Errante"
+		},
+		{
+			"nombre":"Vino y Poesía",
+			"rareza":4,
+			"tipo":"Catalizador",
+			"img_src":"./assets/arma/catalizadores/Arma_Vino_y_Poesia.png",
+			"img_asc":"./assets/arma/catalizadores/Arma_Vino_y_Poesia_Ascendido.png",
+			"desc":"El nombre de una canción muy popular durante la época de la aristocracia. Su autor es desconocido. En ella, se cuenta la historia de un bandido errante...",
+	        "obtencion":"Gacha",
+	        "serie":"Callejón"
+		},
+		{
+			"nombre":"Aquila Favonia",
+			"rareza":5,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Aquila_Favonia.png",
+			"img_asc":"./assets/arma/espadas/Arma_Aquila_Favonia_Ascendido.png",
+			"desc":"El alma de los Caballeros de Favonius. Milenios más tarde, sigue llamando a los vientos de la justicia a desterrar todo mal, igual que la última heroína que la empuñó ",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Cortador de Jade Primordial",
+			"rareza":5,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Cortador_de_Jade_Primordial.png",
+			"img_asc":"./assets/arma/espadas/Arma_Cortador_de_Jade_Primordial_Ascendido.png",
+			"desc":"Una espada para ceremonias hecha con esencia de jade puro muy finamente tallado. El aire que se produce al blandirla emite un sonido parecido al de un suspiro ",
+	        "obtencion":"Gacha",
+	        "serie":"Jade Primordial"
+		},
+		{
+			"nombre":"Deseo Ponzoñoso",
+			"rareza":4,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Deseo_Ponzoñoso.png",
+			"img_asc":"./assets/arma/espadas/Arma_Deseo_Ponzoñoso_Ascendido.png",
+			"desc":"Una espada muy recta y misteriosa que parece sedienta de vida. De ella gotea un veneno capaz de corromper hasta a un dragón",
+	        "obtencion":"Al completar la misión Deseo Ponzoñoso",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Destello en la Oscuridad",
+			"rareza":4,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Destello_en_la_Oscuridad.png",
+			"img_asc":"./assets/arma/espadas/Arma_Destello_en_la_Oscuridad_Ascendido.png",
+			"desc":"Una espada larga negra con un perfecto ángulo recto. Perteneció a un ladrón que deambulaba por callejones oscuros",
+	        "obtencion":"Gacha",
+	        "serie":"Callejón"
+		},
+		{
+			"nombre":"Espada Anemona Gemela",
+			"rareza":4,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Espada_Amenoma_Gemela.png",
+			"img_asc":"./assets/arma/espadas/Arma_Espada_Amenoma_Gemela_Ascendido.png",
+			"desc":"Una espada que, según la leyenda, fue forjada a medida bajo petición de un famoso samurái que podía incluso clavársela a un guerrero tengu, conocidos por ser extremadamente veloces, en el aire. ",
+	        "obtencion":"Completar misión Tesoro Campesino",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Espada Larga del Peñasco Oscuro",
+			"rareza":4,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Espada_Larga_del_Peñasco_Oscuro.png",
+			"img_asc":"./assets/arma/espadas/Arma_Espada_Larga_del_Peñasco_Oscuro_Ascendido.png",
+			"desc":"Una espada larga hecha de Piedra negra. Tiene un brillo carmesí oscuro en su oscura hoja.",
+	        "obtencion":"Gangas de Paimon",
+	        "serie":"Peñasco Oscuro"
+		},
+		{
+			"nombre":"Espada Negra",
+			"rareza":4,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Espada_Negra.png",
+			"img_asc":"./assets/arma/espadas/Arma_Espada_Negra_Ascendido.png",
+			"desc":"Una espada larga oscura que ansia el conflicto y el combate. Se dice que sume a su portador en el violento deseo de mancharse de sangre en una masacre.",
+	        "obtencion":"Pase de Batalla",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Espada Plateada",
+			"rareza":2,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Espada_Plateada.png",
+			"img_asc":"./assets/arma/espadas/Arma_Espada_Plateada_Ascendido.png",
+			"desc":"Una espada para ahuyentar a los demonios. Todo el mundo sabe que está hecha de una aleación de plata, no de plata pura.",
+	        "obtencion":"Cofres",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Espada Real Larga",
+			"rareza":4,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Espada_Real_Larga.png",
+			"img_asc":"./assets/arma/espadas/Arma_Espada_Real_Larga_Ascendido.png",
+			"desc":"Una vieja espada larga que perteneció a aquellos que una vez gobernaron sobre Mondstadt. Tiene un acabado exquisito. Sus decoraciones y grabados son una muestra del estatus de su antiguo propietario ",
+	        "obtencion":"Gangas de Paimon",
+	        "serie":"Real"
+		},
+		{
+			"nombre":"Espada Surcacielos",
+			"rareza":3,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Espada_Surcacielos.png",
+			"img_asc":"./assets/arma/espadas/Arma_Espada_Surcacielos_Ascendido.png",
+			"desc":"Una espada de acero fiable. Cierta persona intentó usarla como una espada voladora..",
+	        "obtencion":"Gacha",
+	        "serie":"Surcacielos"
+		},
+		{
+			"nombre":"Espada de Favonius",
+			"rareza":4,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Espada_de_Favonius.png",
+			"img_asc":"./assets/arma/espadas/Arma_Espada_de_Favonius_Ascendido.png",
+			"desc":"Una espada larga estándar de los Caballeros de Favonius. ¡Canalizar el poder de los elementos nunca fue tan fácil como con esta espada! ",
+	        "obtencion":"Gacha",
+	        "serie":"Favonius"
+		},
+		{
+			"nombre":"Espada de Hierro Oscuro",
+			"rareza":3,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Espada_de_Hierro_Oscuro.png",
+			"img_asc":"./assets/arma/espadas/Arma_Espada_de_Hierro_Oscuro_Ascendido.png",
+			"desc":"Bueno... Es simplemente una espada de hierro oscura.",
+	        "obtencion":"Del Filoso Chen",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Espada de Sacrificio",
+			"rareza":3,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Espada_de_Sacrificio.png",
+			"img_asc":"./assets/arma/espadas/Arma_Espada_de_Sacrificio_Ascendido.png",
+			"desc":"Una espada decorativa que ha sido petrificada por el tiempo. Las baratijas incrustadas en su superficie todavía son visibles. Concede al portador el poder de resistir los vientos del tiempo.",
+	        "obtencion":"Gacha",
+	        "serie":"Sacrificio"
+		},
+		{
+			"nombre":"Espada del Alba",
+			"rareza":3,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Espada_del_Alba.png",
+			"img_asc":"./assets/arma/espadas/Arma_Espada_del_Alba_Ascendido.png",
+			"desc":"Una espada que solía brillar como el sol. Su portador será bendecido con una sensación de poder y bienestar. El material reflectante de su hoja se desgastó hace mucho tiempo. ",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Espada del Descenso",
+			"rareza":4,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Espada_del_Descenso.png",
+			"img_asc":"./assets/arma/espadas/Arma_Espada_del_Descenso_Ascendido.png",
+			"desc":"Una espada de artesanía única. No parece pertenecer a este mundo.",
+	        "obtencion":"Jugar en Play Station",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Espada del Viajero",
+			"rareza":3,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Espada_del_Viajero.png",
+			"img_asc":"./assets/arma/espadas/Arma_Espada_del_Viajero_Ascendido.png",
+			"desc":"Una práctica espada de acero que esconde en su vaina unas tijeras, una lupa y yesca, entre otras cosas... ",
+	        "obtencion":"Cofres",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Espina de Hierro",
+			"rareza":4,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Espina_de_Hierro.png",
+			"img_asc":"./assets/arma/espadas/Arma_Espina_de_Hierro_Ascendido.png",
+			"desc":"Una exótica espada que de alguna forma acabó en manos de comerciantes de Liyue. Es ligera, ágil y afilada.",
+	        "obtencion":"Gacha",
+	        "serie":"Infusión"
+		},
+		{
+			"nombre":"Flauta",
+			"rareza":4,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Flauta.png",
+			"img_asc":"./assets/arma/espadas/Arma_Flauta_Ascendido.png",
+			"desc":"Tras el óxido, se esconde una hoja delgada y lujosamente decorada. Se balancea tan rápido como el viento.",
+	        "obtencion":"Gacha",
+	        "serie":"Orquesta del Errante"
+		},
+		{
+			"nombre":"Hoja Afilada Celestial",
+			"rareza":5,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Hoja_Afilada_Celestial.png",
+			"img_asc":"./assets/arma/espadas/Arma_Hoja_Afilada_Celestial_Ascendido.png",
+			"desc":" Una espada de caballero que simboliza el honor de Dvalin. Las bendiciones del Arconte Anemo descansan sobre el filo de su hoja, impregnando la espada con los poderes del cielo y del viento ",
+	        "obtencion":"Gacha",
+	        "serie":"Mondstadt"
+		},
+		{
+			"nombre":"Hoja Desafilada",
+			"rareza":1,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Hoja_Desafilada.png",
+			"img_asc":"./assets/arma/espadas/Arma_Hoja_Desafilada_Ascendido.png",
+			"desc":"Si tus sueños de la juventud y la emoción de la aventura no son suficientes, ¡compleméntalos con valentía! ",
+	        "obtencion":"Cofres",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Hoja Fría",
+			"rareza":3,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Hoja_Fria.png",
+			"img_asc":"./assets/arma/espadas/Arma_Hoja_Fria_Ascendido.png",
+			"desc":"Un arma laminada fiable, forjada en acero, que sirve como testimonio de las grandes aventuras de su antiguo maestro",
+	        "obtencion":"Cofres",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Hoja de Filetear",
+			"rareza":3,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Hoja_de_Filetear.png",
+			"img_asc":"./assets/arma/espadas/Arma_Hoja_de_Filetear_Ascendido.png",
+			"desc":"Un cuchillo afilado con una hoja larga.",
+	        "obtencion":"Cofres",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Juramento por la Libertad",
+			"rareza":5,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Juramento_por_la_Libertad.png",
+			"img_asc":"./assets/arma/espadas/Arma_Juramento_por_la_Libertad_Ascendido.png",
+			"desc":"Una espada azul celeste que recuerda a una canción de la antigüedad. Es tan tajante como el juramento por la libertad del Reino del Viento.",
+	        "obtencion":"Gacha",
+	        "serie":"Gran concierto Milenario"
+		},
+		{
+			"nombre":"Prototipo Rencor",
+			"rareza":4,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Prototipo_Rencor.png",
+			"img_asc":"./assets/arma/espadas/Arma_Prototipo_Rencor_Ascendido.png",
+			"desc":"Una antigua espada larga descubierta en la Forja Peñasco Oscuro. Es tan afilada que con ella se puede cortar una roca con gran facilidad.",
+	        "obtencion":"Froja, Recompensa de AR 10",
+	        "serie":"Prototipo"
+		},
+		{
+			"nombre":"Reflejo de las Tinieblas",
+			"rareza":5,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Reflejo_de_las_Tinieblas.png",
+			"img_asc":"./assets/arma/espadas/Arma_Reflejo_de_las_Tinieblas_Ascendido.png",
+			"desc":"Una espada que centellea con una fría e intensa luz violeta. La palabra reflejo de su nombre se debe a los fragmentos del pasado que se reflejan en ella.",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Rompemontañas",
+			"rareza":5,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Rompemontañas.png",
+			"img_asc":"./assets/arma/espadas/Arma_Rompemontañas_Ascendido.png",
+			"desc":"Según la leyenda, esta afilada espada, que representa la firma de cierto contrato, se usó para cortar los picos de las montañas ",
+	        "obtencion":"Gacha",
+	        "serie":"Liyue"
+		},
+		{
+			"nombre":"Rugido del Leóm",
+			"rareza":4,
+			"tipo":"Espada",
+			"img_src":"./assets/arma/espadas/Arma_Rugido_del_Leon.png",
+			"img_asc":"./assets/arma/espadas/Arma_Rugido_del_Leon_Ascendido.png",
+			"desc":"Una afilada espada con una lujosa decoración que no compromete ni su resistencia ni su filo. El sonido de la misma cortando el aire es como el rugido de un león.",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Alabarda",
+			"rareza":3,
+			"tipo":"Cofres",
+			"img_src":"./assets/arma/lanzas/Arma_Alabarda.png",
+			"img_asc":"./assets/arma/lanzas/Arma_Alabarda_Ascendido.png",
+			"desc":"Un arma de asta con una hoja de hacha montada en la parte superior, capaz de causar mucho daño. El arma predilecta entre los oficiales del Ejército de las Mil Rocas.",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Aleta Cortaolas",
+			"rareza":4,
+			"tipo":"Lanza",
+			"img_src":"./assets/arma/espadas/Arma_Rugido_del_Leon.png",
+			"img_asc":"./assets/arma/espadas/Arma_Rugido_del_Leon_Ascendido.png",
+			"desc":"Una naginata fabricada a partir de un brillante material de las profundidades del océano. En el pasado, perteneció a la raza de los tengu.",
+	        "obtencion":"Desconocida",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Baculo de Homa",
+			"rareza":5,
+			"tipo":"Lanza",
+			"img_src":"./assets/arma/lanzas/Arma_Baculo_de_Homa.png",
+			"img_asc":"./assets/arma/lanzas/Arma_Baculo_de_Homa_Ascendido.png",
+			"desc":"Un bastón de color bermellón utilizado en un antiguo ritual que hace mucho tiempo que no se practica ",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Borla Blanca",
+			"rareza":3,
+			"tipo":"Lanza",
+			"img_src":"./assets/arma/lanzas/Arma_Borla_Blanca.png",
+			"img_asc":"./assets/arma/lanzas/Arma_Borla_Blanca_Ascendido.png",
+			"desc":"Un arma estándar de la Geoarmada. Tiene un eje firme y una punta de lanza afilada. Es un arma muy fiable.",
+	        "obtencion":"Cofres",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Borla Negra",
+			"rareza":4,
+			"tipo":"Lanza",
+			"img_src":"./assets/arma/lanzas/Arma_Borla_Negra.png",
+			"img_asc":"./assets/arma/lanzas/Arma_Borla_Negra_Ascendido.png",
+			"desc":"El hecho de que sea de color oscuro soluciona el problema que tienen las borlas blancas, las cuales se manchan muy fácilmente ",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Cruz de Kitain",
+			"rareza":4,
+			"tipo":"Lanza",
+			"img_src":"./assets/arma/lanzas/Arma_Cruz_de_Kitain.png",
+			"img_asc":"./assets/arma/lanzas/Arma_Cruz_de_Kitain_Ascendido.png",
+			"desc":"El arma utilizada por el famoso lancero que custodiaba a los tatarigami en la Isla Yashiori.",
+	        "obtencion":"Forja",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Halcón de Jade",
+			"rareza":5,
+			"tipo":"Lanza",
+			"img_src":"./assets/arma/lanzas/Arma_Halcon_de_Jade.png",
+			"img_asc":"./assets/arma/lanzas/Arma_Halcon_de_Jade_Ascendido.png",
+			"desc":"Una pesada y afilada lanza de jade capaz de derrotar a los poderosos monstruos marinos de la antigüedad.",
+	        "obtencion":"Gacha",
+	        "serie":"Jade Primordial"
+		},
+		{
+			"nombre":"La Captura",
+			"rareza":4,
+			"tipo":"Lanza",
+			"img_src":"./assets/arma/lanzas/Arma_La_Captura.png",
+			"img_asc":"./assets/arma/lanzas/Arma_La_Captura_Ascendido.png",
+			"desc":"Hace mucho tiempo. esta lanza era la preferida de un famoso bandido de Inazuma",
+	        "obtencion":"Comprar en el Gremio de Pescadores de Inazuma",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Lanza Lítica",
+			"rareza":4,
+			"tipo":"Lanza",
+			"img_src":"./assets/arma/lanzas/Arma_Lanza_Litica.png",
+			"img_asc":"./assets/arma/lanzas/Arma_Lanza_Litica_Ascendido.png",
+			"desc":"Una lanza excelentemente forjada con rocas del Bosque de Piedra Guyun. La robustez de su filo no tiene igual.",
+	        "obtencion":"Gacha",
+	        "serie":"Lítica"
+		},
+		{
+			"nombre":"Lanza Perforanubes",
+			"rareza":5,
+			"tipo":"Lanza",
+			"img_src":"./assets/arma/lanzas/Arma_Lanza_Perforanubes.png",
+			"img_asc":"./assets/arma/lanzas/Arma_Lanza_Perforanubes_Ascendido.png",
+			"desc":"Una afilada lanza que puede atravesar cualquier cosa. Al blandirla, casi se pueden ver las grietas creadas por su punta en el aire",
+	        "obtencion":"Gacha",
+	        "serie":"Liyue"
+		},
+		{
+			"nombre":"Lanza de Caza Real",
+			"rareza":4,
+			"tipo":"Lanza",
+			"img_src":"./assets/arma/lanzas/Arma_Lanza_de_Caza_Real.png",
+			"img_asc":"./assets/arma/lanzas/Arma_Lanza_de_Caza_Real_Ascendido.png",
+			"desc":"Una lanza atesorada por un antiguo aristócrata que gobernó Mondstadt. Aunque nunca ha visto la luz del día, su filo no tiene rival",
+	        "obtencion":"Gangas de Paimon",
+	        "serie":"Real"
+		},
+		{
+			"nombre":"Lanza de Espinadragón",
+			"rareza":4,
+			"tipo":"Lanza",
+			"img_src":"./assets/arma/lanzas/Arma_Lanza_de_Espinadragon.png",
+			"img_asc":"./assets/arma/lanzas/Arma_Lanza_de_Espinadragon_Ascendido.png",
+			"desc":"Una lanza creada a partir del colmillo de un dragón. Sorprendentemente, es cálida al tacto.",
+	        "obtencion":"Forja",
+	        "serie":"Espinadragón"
+		},
+		{
+			"nombre":"Lanza de Favonius",
+			"rareza":4,
+			"tipo":"Lanza",
+			"img_src":"./assets/arma/lanzas/Arma_Lanza_de_Favonius.png",
+			"img_asc":"./assets/arma/lanzas/Arma_Lanza_de_Favonius_Ascendido.png",
+			"desc":"Una lanza hecha con el estilo de los Caballeros de Favonius Su barra es recta y su punta fluye ligeramente como el viento.",
+	        "obtencion":"Gacha",
+	        "serie":"Favonius"
+		},
+		{
+			"nombre":"Lanza del Duelo",
+			"rareza":4,
+			"tipo":"Lanza",
+			"img_src":"./assets/arma/lanzas/Arma_Lanza_del_Duelo.png",
+			"img_asc":"./assets/arma/lanzas/Arma_Lanza_del_Duelo_Ascendido.png",
+			"desc":"Una lanza afilada de color rojo sangre que fue un objeto de valor incalculable para un gladiador. Su punta está manchada con la sangre de innumerables bestias y personas.",
+	        "obtencion":"Pase de Batalla",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Lanza del Peñasco Oscuro",
+			"rareza":4,
+			"tipo":"Lanza",
+			"img_src":"./assets/arma/lanzas/Arma_Lanza_del_Peñasco_Oscuro.png",
+			"img_asc":"./assets/arma/lanzas/Arma_Lanza_del_Peñasco_Oscuro_Ascendido.png",
+			"desc":"Un arma hecha de Piedra negra y Siderita. Hay un brillo carmesí oscuro a lo largo de su filo frío",
+	        "obtencion":"Gangas de Paimon",
+	        "serie":"Peñasco Oscuro"
+		},
+		{
+			"nombre":"Lanza del Principiante",
+			"rareza":1,
+			"tipo":"Lanza",
+			"img_src":"./assets/arma/lanzas/Arma_Lanza_del_Principiante.png",
+			"img_asc":"./assets/arma/lanzas/Arma_Lanza_del_Principiante_Ascendido.png",
+			"desc":"Una arma tan recta como el asta de una bandera. Adecuada para la mayoría de las situaciones, el portador se siente imponente cuando la balancea.",
+	        "obtencion":"Cofres",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Luz del Segador",
+			"rareza":5,
+			"tipo":"Lanza",
+			"img_src":"./assets/arma/lanzas/Arma_Luz_del_Segador.png",
+			"img_asc":"./assets/arma/lanzas/Arma_Luz_del_Segador_Ascendido.png",
+			"desc":"Una naginata que se usa para cortar hierba. Cualquier ejército que se enfrente a esta arma también se verá arrancado del suelo.",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Perdición del Dragón",
+			"rareza":4,
+			"tipo":"Lanza",
+			"img_src":"./assets/arma/lanzas/Arma_Perdicion_del_Dragon.png",
+			"img_asc":"./assets/arma/lanzas/Arma_Perdicion_del_Dragon_Ascendido.png",
+			"desc":"Un plano decorado con un dragón dorado entrelazado. Ligera y afilada, esta arma puede matar dragones con facilidad.",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Pica Luna Creciente",
+			"rareza":4,
+			"tipo":"Lanza",
+			"img_src":"./assets/arma/lanzas/Arma_Pica_Luna_Creciente.png",
+			"img_asc":"./assets/arma/lanzas/Arma_Pica_Luna_Creciente_Ascendido.png",
+			"desc":" Un arma exótica con una cuchilla extremadamente larga en la parte superior y una cuchilla en forma de media luna en la parte inferior. Llegó a Liyue a través de comerciantes extranjeros. Con la práctica, puede causar grandes daños.",
+	        "obtencion":"Gacha",
+	        "serie":"Infusión"
+		},
+		{
+			"nombre":"Prototipo Estelar",
+			"rareza":4,
+			"tipo":"Lanza",
+			"img_src":"./assets/arma/lanzas/Arma_Prototipo_Estelar.png",
+			"img_asc":"./assets/arma/lanzas/Arma_Prototipo_Estelar_Ascendido.png",
+			"desc":" Una alabarda descubierta en la Forja Peñasco Oscuro. Los destellos que produce el brillo de su afilada punta son como estrellas en el firmamento.",
+	        "obtencion":"Forja",
+	        "serie":"Prototipo"
+		},
+		{
+			"nombre":"Púa Celestial",
+			"rareza":5,
+			"tipo":"Lanza",
+			"img_src":"./assets/arma/lanzas/Arma_Pua_Celestial.png",
+			"img_asc":"./assets/arma/lanzas/Arma_Pua_Celestial_Ascendido.png",
+			"desc":"Una lanza que simboliza la firme resolución de Dvalin. La recta asta de esta arma, que apunta hacia los cielos, está revestida con el poder del cielo y del viento.",
+	        "obtencion":"Gacha",
+	        "serie":"Mondstadt"
+		},
+		{
+			"nombre":"Punta de Hierro",
+			"rareza":2,
+			"tipo":"Lanza",
+			"img_src":"./assets/arma/lanzas/Arma_Punta_de_Hierro.png",
+			"img_asc":"./assets/arma/lanzas/Arma_Punta_de_Hierro_Ascendido.png",
+			"desc":"Aguda y puntiaguda en un extremo, es un arma muy equilibrada. Popular entre los viajeros.",
+	        "obtencion":"Cofres",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Argento Estelar de las Nieves",
+			"rareza":4,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/mandobles/Arma_Argento_Estelar_de_las_Nieves.png",
+			"img_asc":"./assets/arma/mandobles/Arma_Argento_Estelar_de_las_Nieves_Ascendido.png",
+			"desc":"Un mandoble antiguo oculto detrás de un fresco. Fue forjado con argento estelar, y tiene el poder de cortar a través del hielo y la nieve. ",
+	        "obtencion":"Forja",
+	        "serie":"Espinadragón"
+		},
+		{
+			"nombre":"Asesinato de Katsuragi",
+			"rareza":4,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/mandobles/Arma_Asesinato_de_Katsuragi.png",
+			"img_asc":"./assets/arma/mandobles/Arma_Asesinato_de_Katsuragi_Ascendido.png",
+			"desc":"Una pesada y tenaz espada forjada en Tatarasuna.",
+	        "obtencion":"Forja",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Espada de Hierro Blanco",
+			"rareza":3,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/mandobles/Arma_Espada_de_Hierro_Blanco.png",
+			"img_asc":"./assets/arma/mandobles/Arma_Espada_de_Hierro_Blanco_Ascendido.png",
+			"desc":"Un mandoble fabricado con hierro blanco que aumenta su potencia al tiempo que tiene un peso relativamente ligero. Puede ser manejada por personas con fuerza normal en los brazos, pero su manejo es mucho mejor cuando es empuñada por grandes guerreros.",
+	        "obtencion":"Cofres",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Espada Lítica",
+			"rareza":4,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/mandobles/Arma_Espada_Litica.png",
+			"img_asc":"./assets/arma/mandobles/Arma_Espada_Litica_Ascendido.png",
+			"desc":"Una pesado mandoble forjado a partir de rocas primigenias de Liyue.",
+	        "obtencion":"Gacha",
+	        "serie":"Lítica"
+		},
+		{
+			"nombre":"Espada de la Desidía",
+			"rareza":5,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/lanzas/Arma_Punta_de_Hierro.png",
+			"img_asc":"./assets/arma/lanzas/Arma_Punta_de_Hierro_Ascendido.png",
+			"desc":"Espada sin filo capaz de acabar con demonios y villanos. ¿Tendrá poderes divinos?",
+	        "obtencion":"Gacha",
+	        "serie":"Liyue"
+		},
+		{
+			"nombre":"Espada del Mercenario",
+			"rareza":2,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/mandobles/Arma_Espada_del_Mercenario.png",
+			"img_asc":"./assets/arma/mandobles/Arma_Espada_del_Mercenario_Ascendido.png",
+			"desc":"Una gran espada antigua y pesada que ha vivido innumerables batallas.",
+	        "obtencion":"Cofres",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Espada del Tiempo",
+			"rareza":4,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/mandobles/Arma_Espada_del_Tiempo.png",
+			"img_asc":"./assets/arma/mandobles/Arma_Espada_del_Tiempo_Ascendido.png",
+			"desc":"Una espada pesada con un reloj, pero sus mecanismos internos fueron dañados hace mucho tiempo.",
+	        "obtencion":"Gacha",
+	        "serie":"Orquesta del Errante"
+		},
+		{
+			"nombre":"Garrote del Debate",
+			"rareza":3,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/mandobles/Arma_Garrote_del_Debate.png",
+			"img_asc":"./assets/arma/mandobles/Arma_Garrote_del_Debate_Ascendido.png",
+			"desc":"Una práctica vara hecha de acero fino. Es la base de la convicción racional.",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Gran Espada Real",
+			"rareza":4,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/mandobles/Arma_Gran_Espada_Real.png",
+			"img_asc":"./assets/arma/mandobles/Arma_Gran_Espada_Real_Ascendido.png",
+			"desc":"Una vieja gran espada que perteneció a la antigua aristocracia gobernante de Mondstadt. Está hecha con materiales de primera calidad que han resistido el paso del tiempo. Un arma de batalla exclusiva para la realeza",
+	        "obtencion":"Gangas de Paimon",
+	        "serie":"Real"
+		},
+		{
+			"nombre":"Gran Espada Sangrienta",
+			"rareza":3,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/mandobles/Arma_Gran_Espada_Sangrienta.png",
+			"img_asc":"./assets/arma/mandobles/Arma_Gran_Espada_Sangrienta_Ascendido.png",
+			"desc":"Una espada de acero que se dice que ha sido vestida con sangre de dragón, haciéndola invulnerable al daño. Sin embargo, este efecto no se extiende a su portador.",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Gran Espada Surcacielos",
+			"rareza":3,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/mandobles/Arma_Gran_Espada_Surcacielos.png",
+			"img_asc":"./assets/arma/mandobles/Arma_Gran_Espada_Surcacielos_Ascendido.png",
+			"desc":"Una espada de acero fiable. Cierta persona intentó usarla como una espada voladora... por segunda vez.",
+	        "obtencion":"Gacha",
+	        "serie":"Surcacielos"
+		},
+		{
+			"nombre":"Gran Espada de Favonius",
+			"rareza":4,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/mandobles/Arma_Gran_Espada_de_Favonius.png",
+			"img_asc":"./assets/arma/mandobles/Arma_Gran_Espada_de_Favonius_Ascendido.png",
+			"desc":"Una espada pesada ceremonial de los Caballeros de Favonius. Canaliza fácilmente los poderes elementales y es altamente destructiva.",
+	        "obtencion":"Gacha",
+	        "serie":"Favonius"
+		},
+		{
+			"nombre":"Gran Espada de Sacrificio",
+			"rareza":4,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/mandobles/Arma_Gran_Espada_de_Sacrificio.png",
+			"img_asc":"./assets/arma/mandobles/Arma_Gran_Espada_de_Sacrificio_Ascendido.png",
+			"desc":"Una gran espada decorativa que ha sido petrificada por el tiempo. Las baratijas en ella todavía son visibles. Concede al portador el poder de resistir los vientos del tiempo.",
+	        "obtencion":"Gacha",
+	        "serie":"Sacrificio"
+		},
+		{
+			"nombre":"Gran Espada del Guerrero",
+			"rareza":1,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/mandobles/Arma_Gran_Espada_del_Guerrero.png",
+			"img_asc":"./assets/arma/mandobles/Arma_Gran_Espada_del_Guerrero_Ascendido.png",
+			"desc":"Una plancha de hierro resistente que, con la fuerza de voluntad de la persona que la empuñe, puede ser lo suficientemente potente como para romper montañas. ",
+	        "obtencion":"Cofres",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Gran Hoja del Peñasco Oscuro",
+			"rareza":4,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/mandobles/Arma_Gran_Hoja_del_Peñasco_Oscuro.png",
+			"img_asc":"./assets/arma/mandobles/Arma_Gran_Hoja_del_Peñasco_Oscuro_Ascendido.png",
+			"desc":"Una gran espada firme forjada en el Peñasco Oscuro. Tiene un color carmesí oscuro a lo largo de su cuchilla ",
+	        "obtencion":"Gangas de Paimon",
+	        "serie":"Peñasco oscuro"
+		},
+		{
+			"nombre":"Lápida del Lobo",
+			"rareza":5,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/mandobles/Arma_Lapida_del_Lobo.png",
+			"img_asc":"./assets/arma/mandobles/Arma_Lapida_del_Lobo_Ascendido.png",
+			"desc":"Una gran espada que fue usada por el Lobo de los Caballeros de Favonius. Originariamente, era solo una pesada lámina de hierro que le regaló el herrero de la ciudad. Sin embargo, se convirtió en una gran espada al serle otorgado poderes legendarios por su amistad con los lobos.",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Médula de la Serpiente",
+			"rareza":4,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/mandobles/Arma_Medula_de_la_Serpiente_Marina.png",
+			"img_asc":"./assets/arma/mandobles/Arma_Medula_de_la_Serpiente_Marina_Ascendido.png",
+			"desc":"Un arma muy poco común procedente del océano. Al blandirla, emite un silbido que recuerda al romper de las olas.",
+	        "obtencion":"Pase de Batalla",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Oda a los Pinos",
+			"rareza":5,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/mandobles/Arma_Oda_de_los_Pinos.png",
+			"img_asc":"./assets/arma/mandobles/Arma_Oda_de_los_Pinos_Ascendido.png",
+			"desc":"Un mandoble que juguetea con las plantas y los árboles como el soplido de una ligera brisa y, al mismo tiempo, es capaz de derribarlos como un abrumador tornado.",
+	        "obtencion":"Gacha",
+	        "serie":"Gran Concierto Milenario"
+		},
+		{
+			"nombre":"Orgullo Celestial",
+			"rareza":5,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/mandobles/Arma_Orgullo_Celestial.png",
+			"img_asc":"./assets/arma/mandobles/Arma_Orgullo_Celestial_Ascendido.png",
+			"desc":"Una espada de dos manos que simboliza el orgullo de Dvalin en los cielos. Cuando es utilizada, emite un zumbido que representa la fuerza Dvalin y el poder de Anemo.",
+	        "obtencion":"Gacha",
+	        "serie":"Mondstadt"
+		},
+		{
+			"nombre":"Prototipo Arcaico",
+			"rareza":4,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/mandobles/Arma_Prototipo_Arcaico.png",
+			"img_asc":"./assets/arma/mandobles/Arma_Prototipo_Arcaico_Ascendido.png",
+			"desc":"Una gran espada descubierta en la Forja Peñasco Oscuro. Al blandirla, tiene tal poder que uno puede sentir como si pudiera cortar a través del espacio.",
+	        "obtencion":"Forja",
+	        "serie":"Prototipo"
+		},
+		{
+			"nombre":"Quartz",
+			"rareza":3,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/mandobles/Arma_Quartz.png",
+			"img_asc":"./assets/arma/mandobles/Arma_Quartz_Ascendido.png",
+			"desc":"Una mandoble simple pero pesada hecha de cuarzo negro pulido con adornos dorados. Tiene un aire de elegancia y dignidad.",
+	        "obtencion":"Cofres",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Rey de los Mares",
+			"rareza":4,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/mandobles/Arma_Rey_de_los_Mares.png",
+			"img_asc":"./assets/arma/mandobles/Arma_Rey_de_los_Mares_Ascendido.png",
+			"desc":"El majestuoso Rey del océano. Tras secarse, sirve como arma y también como comida de emergencia.",
+	        "obtencion":"Canhe en Evento ",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Rey del Mal",
+			"rareza":4,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/mandobles/Arma_Rey_del_Mal.png",
+			"img_asc":"./assets/arma/mandobles/Arma_Rey_del_Mal_Ascendido.png",
+			"desc":"La espada más querida del Rey del Mal. Aunque es enorme e imponente, al blandirla es sorprendentemente ligera.",
+	        "obtencion":"Gachapón",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Segadora de la Lluvia",
+			"rareza":4,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/mandobles/Arma_Segadora_de_la_Lluvia.png",
+			"img_asc":"./assets/arma/mandobles/Arma_Segadora_de_la_Lluvia_Ascendido.png",
+			"desc":"Una gran espada fluorescente y sin punta que hace añicos a los enemigos con fuerza bruta y poder.",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		},
+		{
+			"nombre":"Sombra Blanca",
+			"rareza":4,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/mandobles/Arma_Sombra_Blanca.png",
+			"img_asc":"./assets/arma/mandobles/Arma_Sombra_Blanca_Ascendido.png",
+			"desc":"Una espada exótica con una parte roma en el filo. Llego a Liyue en manos de comerciantes extranjeros. Increíblemente poderosa en las manos de aquellos que saben cómo usarla.",
+	        "obtencion":"Forja",
+	        "serie":"Infusión"
+		},
+		{
+			"nombre":"Sombra Férrea",
+			"rareza":3,
+			"tipo":"Mandoble",
+			"img_src":"./assets/arma/mandobles/Arma_Sombra_ferrea.png",
+			"img_asc":"./assets/arma/mandobles/Arma_Sombra_ferrea_Ascendido.png",
+			"desc":"Una réplica de la famosa espada de Arundolyn, el León de la Luz. ¡Sostenla y siente el poder del héroe legendario! Nota: Soñar despierto demasiado tiempo puede ser perjudicial para la salud.",
+	        "obtencion":"Gacha",
+	        "serie":"Desconocida"
+		}
+	]
+}
