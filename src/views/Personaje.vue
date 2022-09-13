@@ -134,7 +134,7 @@ export default {
         border-radius:50%;
     }
     .marco{
-        background-color:white;
+        background-color:#fff;
         border-radius:50%;
         height:150px;
         margin: 0 auto;
